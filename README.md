@@ -1,9 +1,7 @@
-/******************************************************************************
+LINGUAGEM - C:
+Programa para verificar se um número fornecido pelo usuário é primo ou não. 
+Um número primo é aquele que é divisível apenas por 1 e por ele mesmo.
 
-Utilizando o for, desenvolva um programa para verificar se um número fornecido 
-pelo usuário é primo ou não. Um número primo é aquele que é divisível apenas 
-por 1 e por ele mesmo.
-*******************************************************************************/
            
             #include <stdio.h>
         
